@@ -1,0 +1,26 @@
+body {
+color: white;
+background: green;
+}
+
+header {
+    border-bottom: solid 2px #000000;
+    padding: 20px;
+    font-size: 32px;
+    color: #000000;
+}
+
+section {
+
+background: black;
+padding-bottom: 88px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+
+}
+
+div {
+margin-right: 20px;
+
+}
